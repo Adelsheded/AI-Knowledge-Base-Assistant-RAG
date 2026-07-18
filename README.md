@@ -101,57 +101,11 @@ ERP System Development starts from $5,000.
 
 ---
 
-# 🏗️ System Architecture
+## 🏗️ System Architecture
 
-```text
-                 KNOWLEDGE SYNCHRONIZATION
-
-Google Drive
-      │
-      ▼
-Search PDF Files
-      │
-      ▼
-Download Files
-      │
-      ▼
-Extract PDF Text
-      │
-      ▼
-Prepare Documents
-      │
-      ▼
-Split Into Chunks
-      │
-      ▼
-Generate Embeddings
-      │
-      ▼
-Supabase Vector Database
-
-
-
-                   AI KNOWLEDGE CHAT
-
-User Question
-      │
-      ▼
-AI Agent
-      │
-      ▼
-Knowledge Base Search
-      │
-      ▼
-Semantic Vector Search
-      │
-      ▼
-Retrieve Relevant Chunks
-      │
-      ▼
-Grounded AI Response
-```
-
----
+<p align="center">
+  <img src="images/architecture-diagram-v2.png" alt="System Architecture" width="100%">
+</p>
 
 # ✨ Key Features
 
