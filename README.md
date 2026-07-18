@@ -161,20 +161,6 @@ ERP System Development starts from $5,000.
 ![Knowledge Chat](images/knowledge-chat-workflow.png)
 
 ---
-
-# 📁 Repository Structure
-
-```text
-AI-Knowledge-Base-Assistant-RAG
-
-README.md
-LICENSE
-
-images/
-workflows/
-sample-documents/
-```
-
 ---
 
 # 🛣️ Roadmap
@@ -215,4 +201,4 @@ MIT License
 
 ---
 
-> **Note:** This repository uses fictional company documents for demonstration purposes. API keys, credentials, and sensitive configuration have been removed before publishing.
+>> **Note:** This project is intended for portfolio and educational purposes. All API keys, credentials, and sensitive configuration have been removed. The included knowledge base documents are sample data created for demonstration only.
