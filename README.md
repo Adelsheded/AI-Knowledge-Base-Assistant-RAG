@@ -96,9 +96,6 @@ ERP System Development starts from $5,000.
 ```
 
 ---
-
-![Chat Demo](images/chat-demo.png)
-
 ---
 
 ## 🏗️ System Architecture
