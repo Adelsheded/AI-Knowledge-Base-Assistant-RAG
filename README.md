@@ -96,9 +96,8 @@ ERP System Development starts from $5,000.
 ```
 
 ---
----
 
-## 🏗️ System Architecture
+# 🏗️ System Architecture
 
 <p align="center">
   <img src="images/architecture-diagram-v2.png" alt="System Architecture" width="100%">
@@ -194,6 +193,16 @@ Specialized in:
 - Workflow Automation
 
 ---
+## 📂 Project Assets
+
+This repository includes:
+
+- Project documentation
+- System architecture
+- Workflow overview
+- Demo screenshots
+
+> The complete n8n workflow files are intentionally not included. They are available upon request for clients or during project discussions.
 
 # 📄 License
 
