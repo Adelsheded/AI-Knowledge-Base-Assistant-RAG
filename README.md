@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Enterprise AI Knowledge Base Assistant" width="100%">
+</p>
+
 # 🤖 Enterprise AI Knowledge Base Assistant
 
 > **Version 1.0** — An AI-powered Retrieval-Augmented Generation (RAG) system that enables businesses to chat with their internal documents using natural language.
